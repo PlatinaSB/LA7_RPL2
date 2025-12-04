@@ -1,0 +1,11 @@
+com\mycompany\platina_pert6\Controller\MahasiswaController.class
+com\mycompany\platina_pert6\Model\ModelMahasiswa.class
+com\mycompany\platina_pert6\Repository\MahasiswaRepository.class
+com\mycompany\platina_pert6\View\MahasiswaView$1.class
+com\mycompany\platina_pert6\View\MahasiswaView$3.class
+com\mycompany\platina_pert6\Model\ModelTabelMahasiswa.class
+com\mycompany\platina_pert6\View\MahasiswaView.class
+com\mycompany\platina_pert6\View\MahasiswaView$2.class
+com\mycompany\platina_pert6\MahasiswaApp.class
+com\mycompany\platina_pert6\Service\MahasiswaService.class
+com\mycompany\platina_pert6\View\MahasiswaView$4.class
